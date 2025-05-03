@@ -1,329 +1,807 @@
 [
 
+
 {
 		"name": "1",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/1s.jpg",
+		"author": "geranimo-unsplash",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/1s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "2",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/2.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/2s.jpg",
+		"author": "ks-kyung-unsplash",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/2s.jpg",
 		"downloadable" : "false"
 		
 	},
-
+{
+		"name": "3",
+		"author": "pawel-czerwinski-unsplash",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/3s.jpg",
+		"downloadable" : "false"
+		
+	},
 {
 		"name": "4",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/4.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/4s.jpg",
+		"author": "simon-berger-unsplash",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/4.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/4s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "5",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/5.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/5s.jpg",
+		"author": "Engin Akyurt on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/5.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/5s.jpg",
 		"downloadable" : "false"
-	
+		
 	},
 {
 		"name": "6",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/6.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/6s.jpg",
+		"author": "Jessica Lewis 🦋 thepaintedsquare on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/6.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/6s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "7",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/7.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/7s.jpg",
+		"author": "pexels-chevanon-325044",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/7.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/7s.jpg",
+		"downloadable" : "false"
+		
+	},
+{
+		"name": "8",
+		"author": "Chait Goli on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/8.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/8s.jpg",
+		"downloadable" : "false"
+		
+	},
+{
+		"name": "9",
+		"author": "Bob Price on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/9.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/9s.jpg",
+		"downloadable" : "false"
+		
+	},
+{
+		"name": "10",
+		"author": "Elti Meshau on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/10.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/10s.jpg",
+		"downloadable" : "false"
+		
+	},
+{
+		"name": "11",
+		"author": "needtofly on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/11.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/11s.jpg",
+		"downloadable" : "false"
+		
+	},
+{
+		"name": "12",
+		"author": "Lucas Pezetaj on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/12.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/12s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "13",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/13.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/13s.jpg",
+		"author": "Sharath Giri on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/13.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/13s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "14",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/14.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/14s.jpg",
+		"author": "david ortega on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/14.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/14s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "15",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/15.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/15s.jpg",
+		"author": "cottonbro studio on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/15.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/15s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "16",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/16.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/3s.jpg",
+		"author": "pexels-codioful-6985127",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/16.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/16s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "17",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/17.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/17s.jpg",
+		"author": "Min An on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/17.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/17s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "18",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/18.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/18s.jpg",
+		"author": "Adrien Olichon on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/18.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/18s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "19",
-		"author": "andrew-kliatskyi-unsplash(Edited)",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/andrew-kliatskyi-unsplash(Edited).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/andrew-kliatskyi-unsplash(Edited)s.jpg",
+		"author": "SK wallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/19.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/19s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "20",
-		"author": "joey-banks-unsplash(Edited)",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/joey-banks-unsplash(Edited).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/joey-banks-unsplash(Edited)s.jpg",
+		"author": "SK wallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/20.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/20s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "21",
-		"author": "jonatan-pie-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/jonatan-pie-unsplash(Edited).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/jonatan-pie-unsplash(Edited)s.jpg",
+		"author": "nathan-dumlao-unsplash",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/21.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/21s.jpg",
 		"downloadable" : "false"
-		
+	
 	},
 {
 		"name": "22",
-		"author": "josh-hild-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/josh-hild-unsplash.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/josh-hild-unsplashs.jpg",
+		"author": "Jamal Yahyayev on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/22.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/22s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "23",
-		"author": "joshua-rivera-unsplash(Edited)",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/joshua-rivera-unsplash(Edited).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/joshua-rivera-unsplash(Edited)s.jpg",
+		"author": "Kaboompics.com on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/23.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/23s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "24",
-		"author": "luca-bravo-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/luca-bravo-unsplash.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/luca-bravo-unsplashs.jpg",
+		"author": "Henry & Co. on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/24.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/24s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "25",
-		"author": "milad-fakurian-VbC-unsplash(Edited)",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-VbC-unsplash(Edited).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-VbC-unsplash(Edited)s.jpg",
+		"author": "Alexey Demidov on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/25.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/25s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "26",
-		"author": "milad-fakurian-VbC-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-VbC-unsplash.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-VbC-unsplashs.jpg",
+		"author": "Adrien Olichon on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/26.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/26s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "27",
-		"author": "milad-fakurian-unsplash(Edited)",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplash(Edited).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplash(Edited)s.jpg",
+		"author": "Adrien Olichon on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/27.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/27s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
 		"name": "28",
-		"author": "milad-fakurian-unsplash(edited)",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplash(edited)2.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplash(edited)2s.jpg",
+		"author": "Adrien Olichon on pexels",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/28.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/28s.jpg",
+		"downloadable" : "false"
+		
+	},
+
+{
+		"name": "plane window",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/plane%20window.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/plane%20windows.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "29",
-		"author": "milad-fakurian-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplash(edited)3.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplash(edited)3s.jpg",
-		"downloadable" : "false"
-	
-	},
-{
-		"name": "30",
-		"author": "milad-fakurian-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplash.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplashs.jpg",
+		"name": "pot",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pot.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pots.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "31",
-		"author": "milad-fakurian-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplash2.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplash2s.jpg",
+		"name": "ruby hills",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/ruby%20hills.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/ruby%20hillss.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "32",
-		"author": "milad-fakurian-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplash3.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/milad-fakurian-unsplash3s.jpg",
+		"name": "abstract",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstracts.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "33",
-		"author": "pawel-czerwinski-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash(2).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash(2)s.jpg",
+		"name": "abstract red",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract%20red.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract%20reds.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "34",
-		"author": "pawel-czerwinski-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash(3).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash(3)s.jpg",
+		"name": "abstract dark",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract%20dark.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/abstract%20darks.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "35",
-		"author": "pawel-czerwinski-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash(4).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash(4)s.jpg",
+		"name": "leaves",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/leaves.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/leavess.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "36",
-		"author": "pawel-czerwinski-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash(5).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash(5)s.jpg",
+		"name": "desert day",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/desert%20day.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/desert%20days.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "37",
-		"author": "pawel-czerwinski-unsplash(Edited)",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash(Edited).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash(Edited)s.jpg",
+		"name": "desert night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/desert%20night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/desert%20nights.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "38",
-		"author": "pawel-czerwinski-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplashs.jpg",
+		"name": "flower",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/flower.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/flowers.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "39",
-		"author": "pawel-czerwinski-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash3.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash3s.jpg",
+		"name": "meterial",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/meterial.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/meterials.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "40",
-		"author": "pawel-czerwinski-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash4.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash4s.jpg",
+		"name": "meterial 2",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/meterial%202.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/meterial%202s.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "41",
-		"author": "pawel-czerwinski-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash5.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash5s.jpg",
+		"name": "pattern",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pattern.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/patterns.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "42",
-		"author": "pawel-czerwinski-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash6.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/pawel-czerwinski-unsplash6s.jpg",
+		"name": "pattern dark",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pattern%20dark.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pattern%20darks.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "43",
-		"author": "resource-database-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/resource-database-unsplash.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/resource-database-unsplashs.jpg",
+		"name": "pyrimids day",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pyrimids%20day.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pyrimids%20days.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "44",
-		"author": "resource-database-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/resource-database-unsplash2.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/resource-database-unsplash2s.jpg",
+		"name": "pyrimids night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pyrimids%20night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/pyrimids%20nights.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "45",
-		"author": "samuel-scalzo-unsplash(Edited)",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/samuel-scalzo-unsplash(Edited).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/samuel-scalzo-unsplash(Edited)s.jpg",
+		"name": "sand day",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/sand%20day.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/sand%20days.jpg",
 		"downloadable" : "false"
 		
 	},
 {
-		"name": "46",
-		"author": "samuel-scalzo-unsplash",
-		"url": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/samuel-scalzo-unsplash.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/shahid921/dots-ip/refs/heads/main/samuel-scalzo-unsplashs.jpg",
+		"name": "sand night",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/sand%20night.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/sand%20nights.jpg",
 		"downloadable" : "false"
 		
+	},
+{
+		"name": "tree",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/tree.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid111111/mywallsapp/master/trees.jpg",
+		"downloadable" : "false"
+		
+	},
+{
+		"name": "Nothing #3",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/nothing%20%233.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/nothing%20%233s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "Nothing #1",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/nothing%20%231.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/nothing%20%231s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "Nothing #2",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/nothing%20%232.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/nothing%20%232s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+
+{
+		"name": "#1",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/1s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#2",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/2s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#3",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/3s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#4",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/4.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/4s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#5",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/5.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/5s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#6",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/6.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/6s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#7",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/7.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/7s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#8",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/8.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/8s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#9",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/9.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/9s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#10",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/10.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/10s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#11",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/11.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/11s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#12",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/12.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/12s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#13",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/13.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/13s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#14",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/14.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/14s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#15",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/15.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/15s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#16",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/16.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/16s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#17",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/17.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/17s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#18",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/18.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/18s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#19",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/19.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/19s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#20",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/20.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/20s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#21",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/21.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/21s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#22",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/22.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/22s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#23",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/23.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/23s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#24",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/24.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/24s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#25",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/25.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/25s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#26",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/26.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/26s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#27",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/27.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/27s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#28",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/28.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/28s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#29",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/29.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/29s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#30",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/30.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/30s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#31",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/31.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/31s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#32",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/32.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/32s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#33",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/33.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/33s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#34",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/34.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/34s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#35",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/35.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/35s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#36",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/36.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/36s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#37",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/37.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/37s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#38",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/38.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/38s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#39",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/39.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/39s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#40",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/40.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/40s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#41",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/41.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/41s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#42",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/42.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/42s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#43",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/43.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/43s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#44",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/44.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/44s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#45",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/45.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/45s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#46",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/46.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/46s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#47",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/47.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/47s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#48",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/48.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/48s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#49",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/49.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/49s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "#50",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"downloadable" : "false",
+		"collections": "Vector"
 	}
-
-
-
-
 
 ]
